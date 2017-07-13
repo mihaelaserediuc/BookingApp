@@ -1,7 +1,10 @@
 *.DS_Store
 target/
 bin/
+node_modules/
 dependency-reduced-pom.xml
+derby.log
+npm-debug.log
 .classpath
 .project
 .settings/
